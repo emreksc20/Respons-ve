@@ -1,0 +1,242 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+	
+    margin: 0px;
+    padding: 0px;
+}
+
+.ustmenu{
+	width:100%;
+	height:50px;
+	background-color:#099;
+	}
+.menu{
+	text-align:center;
+	margin-left:400px;
+	width:500px;
+	height:50px;
+	}	
+.menu ul {
+	padding:0;
+	margin:0;
+	list-style:none;
+	}
+.menu li{
+	float:left;
+	} 			
+	
+.menu ul li a{
+	width:120px;
+	height:50px;
+	line-height:50px;
+	color:#FFF;
+	display:block;
+	text-decoration:none;
+
+	}	
+.menu ul li a:hover{
+	
+   background-color: #1BBC9B;
+   
+	}
+.bannerarka{
+	width:100%;
+	height:210px;
+	background-color:#000;
+	}	
+.banner{
+	background-image:url(img/banner.jpg);
+	width:100%;
+	height:200px;
+	background-size:cover;
+	}	
+#metin{
+	width:100%;
+	text-align:center;
+	padding-top:40px;
+    color:#FFF;
+	letter-spacing:5px;
+}
+.orta{
+	width:100%;
+	height:auto;
+	margin-top:50px;
+	}
+.kutu{
+	width:60%;
+	height:auto;
+    float:left;
+	padding:10px;
+	}		
+#kututext{
+	color:#999;
+	margin-top:-15px;
+	}
+h2{
+	color:#069;
+
+	}
+.kutu1{
+	width:40%;
+	height:auto;
+    float:right;
+	padding:10px;
+}
+footer{
+	width:100%;
+	height:500px;
+	background-color:#000;
+	margin-top:600px;
+	}
+
+
+
+	
+.ensol h4{
+	color:#FFF;
+	
+	}
+		
+.ensol{
+	width:33%;
+	padding:50px;
+	box-sizing:border-box;
+	float:left;
+	}
+.ensol a{
+	color:#FFF;
+	
+	}	
+.cizgi{
+	border-bottom:1px solid #999;
+	margin-bottom:3px;
+	width:300px;
+	opacity:0.5; 
+	}
+.orta1
+ h4{
+	color:#FFF;
+	
+	}
+		
+.orta1{
+	width:33%;
+	padding:50px;
+	box-sizing:border-box;
+	float:left;
+	}
+.orta1 a{
+	color:#FFF;
+	
+	}	
+.ensag h4{
+	color:#FFF;
+	
+	}
+		
+.ensag{
+	width:33%;
+	padding:50px;
+	box-sizing:border-box;
+	float:right;
+	}
+.ensag p{
+	color:#FFF;
+	}
+.button{
+	width:100px;
+	height:50px;
+	background-color:#0CF;
+	line-height:50px;
+	text-align:center;
+
+	}
+.button a{
+	text-decoration:none;
+	color:#FFF;
+	}	
+
+.hakkimizda{
+	width:100%;
+	height:50px;
+	line-height:50px;
+	text-align:center;
+	background-color:#333;
+	margin-top:20px;
+	color:#FFF;
+	}	
+.hakkimizdaorta{
+	width:100%;
+	height:100px;
+	margin-bottom:10px;
+	
+	}
+.hakkimizdaresim{
+	margin:20px;
+	float:left;
+	}	
+.hakkimizdatext{
+	width:60%;
+	float:right;
+	margin-top:-260px;
+	margin-left:-70px;
+	}
+h1{
+	color:#000;
+	
+	}
+.sil{
+	clear:both;
+	}		
+.hakkimizdatext2{
+	margin:10px;
+	}
+.blogorta{
+	width:100%;
+	height:auto;
+	}		
+.blogresim1{
+	text-align:center;
+	margin-top:20px;
+	}	
+.blogtext{
+	width:800px;
+	height:150px;
+	text-align:center;
+	margin-left:280px;
+	}
+.blogbtn{
+	width:200px;
+	height:50px;
+	line-height:50px;
+	color:#FFF;
+	background-color:#03F;
+	text-align:center;
+	margin-left:580px;
+	}		
+.iletisimorta{
+	width:100%;
+	height:auto;
+	margin:10px;
+	}
+.iletisim{
+	
+	width:40%;
+	height:500px;
+	text-align:center;
+	padding:30px;
+	float:left;
+	margin-right:10px;
+	border:2px dashed #999999;
+	margin-left:20px;
+	
+	}
+.yol{
+	width:48%;
+	height:500px;
+	float:left;
+	margin-left:40px;
+	}		
